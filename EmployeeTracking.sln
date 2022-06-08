@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{6EC4863D-2940-4351-B3A6-85C98738D541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{6F46A804-B120-4DB1-88CD-32C413BBA7B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{6EE4FDA8-40C5-4F5E-89E1-EE2E3282F3B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{ECD46C6D-B5B7-4161-96D0-74C4996B101E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTracking.WebAPP", "Web\EmployeeTracking.WebAPP\EmployeeTracking.WebAPP.csproj", "{00687D53-C5DE-43EC-9B13-112A1E21A6B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backup", "Backup", "{46157B4E-E23E-4A6C-A4EC-563383E455AB}"
+	ProjectSection(SolutionItems) = preProject
+		..\EmployeeTrackingSystem.bak = ..\EmployeeTrackingSystem.bak
+		..\script.sql = ..\script.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC4863D-2940-4351-B3A6-85C98738D541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC4863D-2940-4351-B3A6-85C98738D541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC4863D-2940-4351-B3A6-85C98738D541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC4863D-2940-4351-B3A6-85C98738D541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F46A804-B120-4DB1-88CD-32C413BBA7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F46A804-B120-4DB1-88CD-32C413BBA7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F46A804-B120-4DB1-88CD-32C413BBA7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F46A804-B120-4DB1-88CD-32C413BBA7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE4FDA8-40C5-4F5E-89E1-EE2E3282F3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE4FDA8-40C5-4F5E-89E1-EE2E3282F3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE4FDA8-40C5-4F5E-89E1-EE2E3282F3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE4FDA8-40C5-4F5E-89E1-EE2E3282F3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD46C6D-B5B7-4161-96D0-74C4996B101E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD46C6D-B5B7-4161-96D0-74C4996B101E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD46C6D-B5B7-4161-96D0-74C4996B101E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD46C6D-B5B7-4161-96D0-74C4996B101E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00687D53-C5DE-43EC-9B13-112A1E21A6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00687D53-C5DE-43EC-9B13-112A1E21A6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00687D53-C5DE-43EC-9B13-112A1E21A6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00687D53-C5DE-43EC-9B13-112A1E21A6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D63596D-F567-4888-BE1A-E686E37DA9C4}
+	EndGlobalSection
+EndGlobal
