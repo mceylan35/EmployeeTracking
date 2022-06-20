@@ -1,0 +1,12 @@
+20.06.2022 21:25:40	This log contains information about the import operation of the script 'dbo.Product.sql' into project 'FaturaUygulamasi.Database' on computer 'DESKTOP-PM650FE' by user'Mehmet.
+20.06.2022 21:25:40	Started importing file: C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\dbo.Product.sql 
+20.06.2022 21:25:40	File name C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\dbo.Product.sql (size: 137)
+20.06.2022 21:25:40	Parsing import script
+20.06.2022 21:25:40	Total number of batches in script: 1
+20.06.2022 21:25:40	Total number of statements in script: 1
+20.06.2022 21:25:40	The script was successfully imported into the project.
+20.06.2022 21:25:40	Analyzing schema objects...
+20.06.2022 21:25:40	Scanning project for duplicate elements
+20.06.2022 21:25:40	Finished duplicate element processing
+20.06.2022 21:25:41	A summary of the import was saved to the following location: C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\Import Script Logs\dbo_Product_sql_20220620062540.log
+20.06.2022 21:25:41	Click Finish to continue...

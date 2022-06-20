@@ -1,0 +1,10 @@
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\bin\Debug\FaturaUygulamasi.Database.dacpac
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\bin\Debug\FaturaUygulamasi.Database.dll
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\bin\Debug\FaturaUygulamasi.Database.pdb
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\FaturaUygulamasi.Database.sqlproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\Model.xml
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\refactor.xml
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\postdeploy.sql
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\predeploy.sql
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\FaturaUygulamasi.Database.dll
+C:\Users\Mehmet\Desktop\FaturaUygulamasi\Database\FaturaUygulamasi.Database\obj\Debug\FaturaUygulamasi.Database.pdb
