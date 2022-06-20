@@ -1,0 +1,5 @@
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
