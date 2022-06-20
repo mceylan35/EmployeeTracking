@@ -13,17 +13,17 @@ namespace DataAccessLayer.Concrete.EntityFramework
     {
         public List<OperationClaim> GetClaims(Employee employee)
         {
-             using(var context=new EfDatabaseContext())
-             {
+            // using(var context=new EfDatabaseContext())
+            // {
 
-                var result = from operationClaim in context.OperationClaims
-                             join emp in context.EmployeeOperationClaims
-                             on operationClaim.Id equals emp.OperationClaimId
-                             where emp.OperationClaimId == employee.Id
-                             select new OperationClaim { Id = operationClaim.Id, Name = operationClaim.Name };
-                return result.ToList();
-            }
-            
+            //    var result = from operationClaim in context.OperationClaims
+            //                 join emp in context.EmployeeOperationClaims
+            //                 on operationClaim.Id equals emp.OperationClaimId
+            //                 where emp.OperationClaimId == employee.Id
+            //                 select new OperationClaim { Id = operationClaim.Id, Name = operationClaim.Name };
+            //    return result.ToList();
+            //}
+            return null;
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Mehmet\Desktop\dotnetcore-backend-boilerplate-master\dotnetcore-backend-boilerplate-master\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
