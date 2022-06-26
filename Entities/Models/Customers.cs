@@ -8,10 +8,17 @@ namespace Entities.Models
 {
     public partial class Customers : IEntity
     {
+        public Customers()
+        {
+            Invoices = new HashSet<Invoices>();
+        }
+
         public int Id { get; set; }
         public string Name { get; set; }
         public string SurName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
+
+        public virtual ICollection<Invoices> Invoices { get; set; }
     }
 }

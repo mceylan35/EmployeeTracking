@@ -3,13 +3,22 @@
 using Core.Entities;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Entities.Models
 {
+    [Table("Products")]
     public partial class Products:IEntity
     {
+        public Products()
+        {
+            InvoiceDetails = new HashSet<InvoiceDetails>();
+        }
+
         public int Id { get; set; }
         public string ProductName { get; set; }
         public decimal? Price { get; set; }
+
+        public virtual ICollection<InvoiceDetails> InvoiceDetails { get; set; }
     }
 }

@@ -8,11 +8,19 @@ namespace Entities.Models
 {
     public partial class Invoices : IEntity
     {
+        public Invoices()
+        {
+            InvoiceDetails = new HashSet<InvoiceDetails>();
+        }
+
         public int Id { get; set; }
         public int? CustomerId { get; set; }
         public DateTime? CreatedOn { get; set; }
         public DateTime? ExpiredOn { get; set; }
         public decimal? Total { get; set; }
         public int? Discount { get; set; }
+
+        public virtual Customers Customer { get; set; }
+        public virtual ICollection<InvoiceDetails> InvoiceDetails { get; set; }
     }
 }
