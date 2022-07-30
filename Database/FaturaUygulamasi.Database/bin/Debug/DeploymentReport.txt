@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Products]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Products].[Price] is being dropped, data loss could occur.
+       The type for column ProductName in table [dbo].[Products] is currently  NVARCHAR (50) NULL but is being changed to 
+         NCHAR (10) NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with
+         type  NCHAR (10) NULL.
+
+** User actions
+     Drop
+       [dbo].[FK_InvoiceDetails_Products] (Foreign Key)
+     Table rebuild
+       [dbo].[Products] (Table)
+
+** Supporting actions
+
+The column [dbo].[Products].[Price] is being dropped, data loss could occur.
+The type for column ProductName in table [dbo].[Products] is currently  NVARCHAR (50) NULL but is being changed to  NCHAR (10) NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  NCHAR (10) NULL.
+The project and target databases have different collation settings. Deployment errors might occur.
+

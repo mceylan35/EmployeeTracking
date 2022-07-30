@@ -11,7 +11,7 @@ namespace DataAccessLayer.Concrete.EntityFramework.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=EmployeeTrackingSystem; Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Data Source=ShoesDB;Initial Catalog=MyReleaseDB;Integrated Security=True");
         }
 
        

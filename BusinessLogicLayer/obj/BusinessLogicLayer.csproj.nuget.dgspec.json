@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
+    "E:\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "E:\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\BusinessLogicLayer\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -33,14 +33,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj"
+              "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj"
               },
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj"
+              "E:\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj"
+              "E:\\FaturaUygulamasi\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
+    "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "E:\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\DataAccessLayer\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,11 +205,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj"
+              "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj"
               },
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj"
+              "E:\\FaturaUygulamasi\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -224,10 +224,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.14, )"
@@ -256,14 +252,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj": {
+    "E:\\FaturaUygulamasi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -285,8 +281,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj"
+              "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj"
               }
             }
           }
