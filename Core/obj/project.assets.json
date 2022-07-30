@@ -6036,11 +6036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+      "projectUniqueName": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+      "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\obj\\",
+      "outputPath": "E:\\FaturaUygulamasi\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

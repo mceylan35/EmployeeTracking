@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj": {}
+    "E:\\FaturaUygulamasi\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
+    "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj": {
+    "E:\\FaturaUygulamasi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\Entities.csproj",
+        "projectPath": "E:\\FaturaUygulamasi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Entities\\obj\\",
+        "outputPath": "E:\\FaturaUygulamasi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,8 +114,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\FaturaUygulamasi\\Core\\Core.csproj"
+              "E:\\FaturaUygulamasi\\Core\\Core.csproj": {
+                "projectPath": "E:\\FaturaUygulamasi\\Core\\Core.csproj"
               }
             }
           }
